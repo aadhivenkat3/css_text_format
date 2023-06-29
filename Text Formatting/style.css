@@ -1,0 +1,136 @@
+table,th,td{
+	border:2px solid blue;
+	border-collapse:collapse;
+    margin:auto;   	
+}
+table{
+	width:50%;
+	background-color:skyblue;
+}
+body{
+	background-color:#82d1a1;
+	font-family: 'Roboto', sans-serif;
+}
+.tc{
+	color:red;
+}
+.hv{
+	color:#3cb371;
+}
+.rgb{
+	color:rgb(0,255,200);
+}
+
+.bc{
+	background-color:rgb(0,255,200);
+}
+
+.cr{
+	text-align:center;
+}
+.rt{
+	text-align:right;
+}
+.lt{
+	text-align:left;
+}
+.jy{
+	text-align:justify;
+}
+.lcr{
+	text-align-last:center;
+}
+.lrt{
+	text-align-last:right;
+}
+.llt{
+	text-align-last:left;
+}
+.ljy{
+	text-align-last:justify;
+}
+.directionrtl{
+	direction:rtl;
+	unicode-bidi:bidi-override;
+}
+
+.vb{
+	vertical-align:baseline;
+}
+.vtt{
+	vertical-align:text-top;
+}
+.vtb{
+	vertical-align:text-bottom;
+}
+.sub{
+	vertical-align:sub;
+}
+.sup{
+	vertical-align:super;
+}
+.solid{
+	text-decoration-line:underline;
+	text-decoration-style:solid;
+	text-decoration-thickness:5px;
+}
+.wavy{
+	text-decoration-line:underline;
+	text-decoration-style:wavy;
+}
+.double{
+	text-decoration-line:underline;
+	text-decoration-style:double;
+	text-decoration-style:dotted;
+}
+.wavyul{
+	text-decoration-line:overline underline;
+	text-decoration-style:wavy;
+	text-decoration-color:red;	
+}
+.dline{
+	text-decoration:overline;
+	text-decoration-color:red;
+}
+.olul{
+	text-decoration:overline underline;
+}
+.linet{
+	text-decoration:line-through;
+}
+.uline{
+	text-decoration:underline;
+}
+.ucase{
+	text-transform:uppercase;
+}
+.lcase{
+	text-transform:lowercase;
+}
+.cap{
+	text-transform:capitalize;
+}
+.tindent{
+	text-indent:50px;
+}
+.lspace{
+	letter-spacing:3px;
+}
+.wspace{
+	word-spacing:5px;
+}
+.lheight{
+	line-height:5px;
+}
+.whites{
+	white-space:nowrap;
+}
+.tshadow{
+	text-shadow:5px 5px;
+}
+.tshadowc{
+	text-shadow:3px 3px  red;
+}
+.tshadowb{
+	text-shadow:5px 5px 4px red;
+}
